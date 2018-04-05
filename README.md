@@ -10,10 +10,10 @@ In this project the aim was to implement a 2 dimensional particle filter in C++.
 particle_filter.cpp : its the file to look out for where the main implementation of particle filter is done.
 
 ### Instructions for running the code:
-cd build
-cmake ..
-make
-./particle_filter
+1. cd build
+2. cmake ..
+3. make
+4. ./particle_filter
 
 or 
 simple run the ./run.sh script. 
